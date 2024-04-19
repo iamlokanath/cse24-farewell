@@ -27,9 +27,7 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    I made bacck the purchase price in just 48 hours! Thank you
-                    for making it pain less, pleasant. The service was
-                    execellent. I will refer everyone I know.
+                  Dear seniors, thank you for everything. Your guidance and presence have meant the world to us, and we'll truly miss you as you move forward. Wishing you all the best for your future endeavors. A special note of gratitude to my dear brother Tanmay Bhai for his unwavering support and guidance. Thank you.
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
