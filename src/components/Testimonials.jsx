@@ -11,6 +11,7 @@ import Piyush from './Image/Piyush.jpg';
 import Ashwin from './Image/Ashwin.jpg';
 import Manua from './Image/Manua.jpg';
 import Jogalaxmi from './Image/Joga.jpg';
+import Subha from './Image/Subha.jpg';
 const Testimonials = () => {
   return (
     <>
@@ -32,7 +33,7 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                  Dear seniors, thank you for everything. Your guidance and presence have meant the world to us, and we'll truly miss you as you move forward. Wishing you all the best for your future endeavors. A special note of gratitude to my dear brother Tanmay Bhai for his unwavering support and guidance. Thank you.
+                  "Dear seniors, thank you for everything. Your guidance and presence have meant the world to us, and we'll truly miss you as you move forward. Wishing you all the best for your future endeavors. A special note of gratitude to my dear brother Tanmay Bhai for his unwavering support and guidance. Thank you."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -50,12 +51,12 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    As you embark on this new chapter of your life, we want to
+                    "As you embark on this new chapter of your life, we want to
                     express our heartfelt gratitude for all that you have done.
                     Your dedication, hard work, and positive attitude have made
                     a lasting impact on all of us. While we will miss your
                     presence and your contributions.Farewell, and best wishes
-                    for a bright and prosperous future.
+                    for a bright and prosperous future."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -73,12 +74,12 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    ଧନ୍ୟବାଦ ଆଜି ନଇଁ ଗଲା ମୋର କଲମ | କଣ ଅତୀତ ପ୍ରେମରେ ନା ସମୟ ଡର ରେ
+                    "ଧନ୍ୟବାଦ ଆଜି ନଇଁ ଗଲା ମୋର କଲମ | କଣ ଅତୀତ ପ୍ରେମରେ ନା ସମୟ ଡର ରେ
                     ଅଧା ନିଦ କି ମିଛ ଅଳସ ରେ । ନଇଁ ଗଲା ବୋଧେ, ତାଙ୍କ ଅନୁଗ୍ରହ ତଳେ।
                     ତାଙ୍କ ସମ୍ମାନ ରେ ମୁଣ୍ଡ ଟେକିଥିଲା, ସାଥେ ଲେଖିବାକୁ ହାତ ବଢେଇଲା,
                     କିନ୍ତୁ, ଉତ୍ତର ମିଳିଲା ହାତ ଠାର ରେ। ପ୍ରତିଉତ୍ତରେ ଥିଲା ଧନ୍ୟବାଦ।
                     ଧନ୍ୟବାଦ, ସ୍ମୃତି, ଶକ୍ତି, ଆଉ ଶାନ୍ତି ପାଇଁ ଲେଖି ଯାଇ ଥିଲା
-                    ଗୋଟେ ଭିଜା କାଗଜ ରେ।
+                    ଗୋଟେ ଭିଜା କାଗଜ ରେ।"
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -99,9 +100,9 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    Dear seniors, we will miss you all very much. You have been
+                    "Dear seniors, we will miss you all very much. You have been
                     an inspiration to us, and we wish you all the best in your
-                    future endeavors. Thank you for every support!
+                    future endeavors. Thank you for every support!"
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -117,10 +118,10 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    The most beautiful and gorgeous part of life is the college
+                    "The most beautiful and gorgeous part of life is the college
                     life and we are happy to have you with us always, on this
                     beautiful journey of our college life.... Thank you seniors
-                    for your affection and admiration......
+                    for your affection and admiration...."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -142,12 +143,12 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                    In your guidance, we found strength to grow, You nurtured us
+                    "In your guidance, we found strength to grow, You nurtured us
                     with care, more than you'll ever know. As you leave, our
                     gratitude knows no bounds, Farewell, dear senior, your
                     presence will be missed around.All the best for all the
                     exciting challenges and opportunities ahead!! With regards 
-                    Swati
+                    Swati"
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -170,7 +171,7 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                  Thank you, senior, for all the smiles and laughter. I hope we made your day special.  
+                  "Thank you, senior, for all the smiles and laughter. I hope we made your day special."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -186,7 +187,7 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                  With every step, you led us on the right path, Your wisdom and guidance spared us from any aftermath. As you bid adieu, we salute your contributions, Farewell, dear senior, you leave us with cherished memories and emotions.
+                  "With every step, you led us on the right path, Your wisdom and guidance spared us from any aftermath. As you bid adieu, we salute your contributions, Farewell, dear senior, you leave us with cherished memories and emotions."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
@@ -231,7 +232,25 @@ const Testimonials = () => {
                 <div className="face back-face">
                   <span className="fas fa-quote-left"></span>
                   <div className="testimonial">
-                  As we stand on the threshold of a new beginning, it's impossible not to pause and reflect on the journey that has brought us here. From the first day of freshman year, filled with uncertainty and excitement, to this moment, brimming with nostalgia and anticipation, we've grown in ways we never imagined. Each step, each triumph, and even each stumble has shaped us into the individuals we are today. 
+                  "As we stand on the threshold of a new beginning, it's impossible not to pause and reflect on the journey that has brought us here. From the first day of freshman year, filled with uncertainty and excitement, to this moment, brimming with nostalgia and anticipation, we've grown in ways we never imagined. Each step, each triumph, and even each stumble has shaped us into the individuals we are today."
+                  </div>
+                  <span className="fas fa-quote-right"></span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="testm-card">
+                <div className="face front-face">
+                  <img src={Subha} alt="Mr Lorem" className="profile" />
+                  <div className="pt-3 text-uppercase name">
+                    Subhadarshan
+                  </div>
+                  <div className="designation">3rd Year, CSE</div>
+                </div>
+                <div className="face back-face">
+                  <span className="fas fa-quote-left"></span>
+                  <div className="testimonial">
+                  "Life is a journey, and as you embark on your next chapter, remember the memories we've shared and the bonds we've forged. May your path be illuminated with success and happiness."
                   </div>
                   <span className="fas fa-quote-right"></span>
                 </div>
