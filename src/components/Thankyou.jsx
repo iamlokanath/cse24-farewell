@@ -15,6 +15,7 @@ const Thankyou = () => {
           continue to inspire us. With sincere appreciation 3rd year CSE,
           Department of Computer Science and Engineering.
           <br />
+          <br />
           THANK YOU
         </div>
       </div>
