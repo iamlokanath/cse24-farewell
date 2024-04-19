@@ -25,7 +25,7 @@ const Home = () => {
                     <br />
                     Time: 2:30 PM
                 </p>
-                <button className="btn"> <Link to = "/testimonials">Click Here</Link></button>
+                <button className="btn"> <Link to = "/testimonials" className='click'>Click Here</Link></button>
             </div>
         </div>
 

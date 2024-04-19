@@ -146,3 +146,7 @@ border-bottom: 1px solid #999; */
 .testimbtn{
     margin-top: 2rem;
 }
+
+.btn .click{
+    text-decoration: none;
+}

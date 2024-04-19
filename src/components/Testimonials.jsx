@@ -7,11 +7,16 @@ import Swadhin from "./Image/Swadhin.jpg";
 import Jivan from "./Image/Jiban.jpg";
 import Soumya from "./Image/Soumya.jpg";
 import Swati from './Image/swati.jpg';
+import Piyush from './Image/Piyush.jpg';
+import Ashwin from './Image/Ashwin.jpg';
+import Manua from './Image/Manua.jpg';
+import Jogalaxmi from './Image/Joga.jpg';
 const Testimonials = () => {
   return (
     <>
       <div className="container">
         <div className="row">
+          {/* first row */}
           <div className="first-row">
             <div className="col-lg-4">
               <div className="testm-card">
@@ -80,7 +85,7 @@ const Testimonials = () => {
               </div>
             </div>
           </div>
-
+          {/* second row */}
           <div className="first-row">
             <div className="col-lg-4">
               <div className="testm-card">
@@ -150,9 +155,96 @@ const Testimonials = () => {
             </div>
           </div>
 
+
+          {/* 3rd row */}
+          <div className="first-row">
+            <div className="col-lg-4">
+              <div className="testm-card">
+                <div className="face front-face">
+                  <img src={Jogalaxmi} alt="Mr Lorem" className="profile" />
+                  <div className="pt-3 text-uppercase name">
+                    Jogalaxmi Rath
+                  </div>
+                  <div className="designation">3rd Year, CSE</div>
+                </div>
+                <div className="face back-face">
+                  <span className="fas fa-quote-left"></span>
+                  <div className="testimonial">
+                  Thank you, senior, for all the smiles and laughter. I hope we made your day special.  
+                  </div>
+                  <span className="fas fa-quote-right"></span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="testm-card">
+                <div className="face front-face">
+                  <img src={Manua} alt="Jeffery Kennan" className="profile" />
+                  <div className="pt-3 text-uppercase name">Manoranjan Moharana</div>
+                  <div className="designation">3rd Year, CSE</div>
+                </div>
+                <div className="face back-face">
+                  <span className="fas fa-quote-left"></span>
+                  <div className="testimonial">
+                  With every step, you led us on the right path, Your wisdom and guidance spared us from any aftermath. As you bid adieu, we salute your contributions, Farewell, dear senior, you leave us with cherished memories and emotions.
+                  </div>
+                  <span className="fas fa-quote-right"></span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="testm-card">
+                <div className="face front-face">
+                  <img
+                    src=
+                      {Ashwin}
+                    
+                    alt="Issac Maxwell"
+                    className="profile"
+                  />
+                  <div className="pt-3 text-uppercase name">Ashwin Lenka</div>
+                  <div className="designation">3rd Year, CSE</div>
+                </div>
+                <div className="face back-face">
+                  <span className="fas fa-quote-left"></span>
+                  <div className="testimonial">
+                  "Goodbye, seniors! Your journey beyond inspires us all. May your futures be bright, your hearts light, and your memories everlasting. Farewell, and may success follow you always."
+                  </div>
+                  <span className="fas fa-quote-right"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          {/* 4th row */}
+          <div className="first-row">
+            <div className="col-lg-4">
+              <div className="testm-card">
+                <div className="face front-face">
+                  <img src={Piyush} alt="Mr Lorem" className="profile" />
+                  <div className="pt-3 text-uppercase name">
+                    Piyush Sharma
+                  </div>
+                  <div className="designation">3rd Year, CSE</div>
+                </div>
+                <div className="face back-face">
+                  <span className="fas fa-quote-left"></span>
+                  <div className="testimonial">
+                  As we stand on the threshold of a new beginning, it's impossible not to pause and reflect on the journey that has brought us here. From the first day of freshman year, filled with uncertainty and excitement, to this moment, brimming with nostalgia and anticipation, we've grown in ways we never imagined. Each step, each triumph, and even each stumble has shaped us into the individuals we are today. 
+                  </div>
+                  <span className="fas fa-quote-right"></span>
+                </div>
+              </div>
+            </div>
+           
+            
+          </div>
+
+
           <button className="btn testimbtn">
             {" "}
-            <Link to="/thankyou">Click Here</Link>
+            <Link to="/thankyou" className="click">Click Here</Link>
           </button>
         </div>
       </div>
